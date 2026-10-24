@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 146｜Natural-history Scarf Illustration: reinterprets the key subject of a photo, whether plant, animal, person, building, object or landscape, as a decorative natural-history illustration in the spirit of a luxury silk-scarf print, with fine pen outlines, engraving-style hatching and a little texture instead of realistic shading, flat fills in 3–5 bright colours from the photo such as royal blue, cobalt, soft pink, sage, warm yellow or coral, as a small seal-like motif in very large whitespace, with sprigs only when the theme calls for them and fine high-contrast serif text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-146 or asks for natural-history engraving, silk scarf print motifs or fine line flat-colour illustration from a photo.",
+  "short_description": "博物学丝巾印花志：用精细刻线和 3–5 种明快平涂色，把照片画成丝巾印花般的小图案",
+  "zh-CN": {
+    "name": "博物学丝巾印花志",
+    "tagline": "用精细刻线和几种明快平涂色，把照片主体画成丝巾印花般的博物学小图案。",
+    "look": "照片主体，无论是植物、动物、人物、建筑还是器物，都被画成精致、符号化的装饰图案：轮廓是清晰的细钢笔线，内部用版画式刻线、排线和少量纹理表现结构，不靠写实明暗；颜色是平涂的。从照片里挑 3–5 种最鲜活的颜色提亮整理，常见皇家蓝、钴蓝、柔粉、灰绿、暖黄、珊瑚橙、象牙白。主体凝练得像一枚章印，留白明显大于图形；只有主题需要时才加一点花枝，不会围满一圈。文字是纤细优雅的高对比衬线字。",
+    "traits": [
+      "装饰性博物学",
+      "丝巾印花",
+      "精细雕刻线",
+      "3–5 种源图平涂色",
+      "邮票式小主体",
+      "巨大留白"
+    ],
+    "good": [
+      "动植物：一只鹦鹉、一朵牡丹、一只蝴蝶、一只狐狸",
+      "造型优美、适合做成图案的器物或建筑：一只茶壶、一座亭子、一扇雕花窗",
+      "想做成丝巾、包装、品牌图案或精致贺卡的照片"
+    ],
+    "poor": [
+      "需要真实光影和照片质感的人像或产品图",
+      "人多、场面大、需要叙事细节的照片",
+      "想要满版花纹、写实渲染、卡通或 3D 效果"
+    ]
+  },
+  "en": {
+    "name": "Natural-history Scarf Illustration",
+    "tagline": "Draws your photo's subject as a natural-history motif in fine engraved lines and a few bright flat colours, like a silk-scarf print.",
+    "look": "Whether it is a plant, animal, person, building or object, the subject becomes a refined, symbolic decorative motif: crisp fine-pen outlines, engraving-style lines, hatching and a little texture inside to show structure instead of realistic shading, with flat colour fills. Three to five of the photo's liveliest colours are brightened and ordered, often royal blue, cobalt, soft pink, sage, warm yellow, coral or ivory. The subject is as compact as a seal, and the empty space is clearly larger than the drawing; a sprig or two of flowers appears only when the theme calls for it, never as a full border. The text is a fine, elegant high-contrast serif.",
+    "traits": [
+      "Decorative natural history",
+      "Silk-scarf print",
+      "Fine engraved line",
+      "3–5 flat colours from the photo",
+      "Small stamp-like subject",
+      "Vast whitespace"
+    ],
+    "good": [
+      "Plants and animals: a parrot, a peony, a butterfly, a fox",
+      "Objects or buildings with graceful shapes that make good motifs: a teapot, a pavilion, a carved window",
+      "Photos for a scarf, packaging, brand pattern or fine greeting card"
+    ],
+    "poor": [
+      "Portraits or product shots that need real lighting and photographic texture",
+      "Large, crowded scenes that depend on narrative detail",
+      "Requests for an all-over pattern, realistic rendering, cartoon or 3D"
+    ]
+  },
+  "ja": {
+    "name": "博物学スカーフ印花",
+    "tagline": "繊細な彫線と数色の明るい平塗りで、写真の主役をスカーフの柄のような博物画のモチーフにします。",
+    "look": "植物、動物、人物、建物、器のどれであっても、主役は繊細で記号的な装飾モチーフになります。輪郭ははっきりした細いペン線、内側は版画風の彫線、ハッチング、わずかな質感で構造を示し、写実的な陰影には頼りません。色は平塗りです。写真からいちばん生き生きとした 3〜5 色を明るく整え、ロイヤルブルー、コバルト、柔らかなピンク、灰緑、暖かい黄、コーラルオレンジ、アイボリーなどがよく現れます。主役は印のように凝縮され、余白は図よりはっきり大きく、花枝はテーマに合うときだけ少し添え、周りを囲むことはしません。文字は細く上品なコントラストの強いセリフ体です。",
+    "traits": [
+      "装飾的な博物画",
+      "スカーフの柄",
+      "繊細な彫線",
+      "写真から取った 3〜5 色の平塗り",
+      "切手のような小さな主役",
+      "とても大きな余白"
+    ],
+    "good": [
+      "動物や植物：オウム、牡丹、蝶、キツネ",
+      "柄にしやすい美しい形の器や建物：急須、東屋、透かし彫りの窓",
+      "スカーフ、パッケージ、ブランドの柄、上品なカードにしたい写真"
+    ],
+    "poor": [
+      "実際の光や写真らしい質感が必要な人物写真や商品写真",
+      "人が多く場面が大きい、物語の細部に頼る写真",
+      "総柄、写実的な描写、アニメ調、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "박물학 스카프 삽화",
+    "tagline": "섬세한 판각 선과 밝은 평면 색 몇 가지로 사진의 주인공을 스카프 프린트 같은 박물학 문양으로 그립니다.",
+    "look": "식물, 동물, 사람, 건물, 그릇 무엇이든 주인공은 정교하고 상징적인 장식 문양이 됩니다. 윤곽은 또렷한 가는 펜 선이고, 안쪽은 판화풍 새김선, 해칭, 약간의 질감으로 구조를 보여 주며 사실적인 명암에 기대지 않습니다. 색은 평면으로 칠합니다. 사진에서 가장 생기 있는 3~5가지 색을 밝게 정리하며 로열 블루, 코발트, 연분홍, 회녹색, 따뜻한 노랑, 코랄 오렌지, 상아색이 자주 나옵니다. 주인공은 도장처럼 압축되고 여백은 그림보다 분명히 넓으며, 꽃가지는 주제에 맞을 때만 조금 더하고 둘레를 감싸지 않습니다. 글은 가늘고 우아한 고대비 세리프입니다.",
+    "traits": [
+      "장식적 박물학",
+      "스카프 프린트",
+      "섬세한 판각 선",
+      "사진에서 뽑은 3~5가지 평면 색",
+      "우표 같은 작은 주인공",
+      "거대한 여백"
+    ],
+    "good": [
+      "동식물: 앵무새, 모란, 나비, 여우",
+      "문양으로 만들기 좋은 우아한 형태의 그릇이나 건물: 찻주전자, 정자, 꽃살창",
+      "스카프, 포장, 브랜드 패턴, 고급 카드로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "실제 빛과 사진 질감이 필요한 인물 사진이나 제품 사진",
+      "사람이 많고 장면이 커서 서사적 세부에 기대는 사진",
+      "전면 패턴, 사실적인 렌더링, 만화풍, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم تاريخ طبيعي لوشاح",
+    "tagline": "يرسم العنصر الرئيسي في صورتك زخرفةً من علم التاريخ الطبيعي بخطوط محفورة دقيقة وبضعة ألوان مسطّحة زاهية، كطبعة وشاح حريري.",
+    "look": "سواء كان نباتاً أو حيواناً أو شخصاً أو مبنى أو إناءً، يصير العنصر زخرفة رمزية دقيقة: خطوط خارجية واضحة بقلم رفيع، وفي الداخل خطوط محفورة وتظليل وقليل من الملمس لإظهار البنية بدل الظلال الواقعية، مع تلوين مسطّح. تُختار من الصورة ثلاثة إلى خمسة من أكثر ألوانها حيوية وتُفتَّح وتُرتَّب، وكثيراً ما تظهر الأزرق الملكي والكوبالتي والوردي الناعم والأخضر الرمادي والأصفر الدافئ والبرتقالي المرجاني والعاجي. يكون العنصر مكثّفاً كالختم، والفراغ أكبر بوضوح من الرسم؛ ولا يظهر غصن مزهر أو اثنان إلا حين يستدعيه الموضوع، ولا يحيط بالإطار أبداً. والنص بخط مذيّل رفيع أنيق عالي التباين.",
+    "traits": [
+      "تاريخ طبيعي زخرفي",
+      "طبعة وشاح حريري",
+      "خط محفور دقيق",
+      "ثلاثة إلى خمسة ألوان مسطّحة من الصورة",
+      "عنصر صغير كالطابع",
+      "فراغ هائل"
+    ],
+    "good": [
+      "نباتات وحيوانات: ببغاء، زهرة فاوانيا، فراشة، ثعلب",
+      "أوانٍ أو مبانٍ بأشكال رشيقة تصلح زخرفة: إبريق شاي، جوسق، نافذة منقوشة",
+      "صور لوشاح أو تغليف أو نقشة لعلامة تجارية أو بطاقة تهنئة راقية"
+    ],
+    "poor": [
+      "صور شخصية أو صور منتجات تحتاج إلى إضاءة حقيقية وملمس فوتوغرافي",
+      "مشاهد كبيرة مزدحمة تعتمد على تفاصيل سردية",
+      "طلب نقشة تغطي الإطار كله أو تمثيل واقعي أو مظهر كرتوني أو ثلاثي الأبعاد"
+    ]
+  }
+}
